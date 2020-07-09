@@ -4,14 +4,14 @@
 <p align="center">I'm Krishnakanth Alagiri. A Student Software Engineer from Chennai, India with a demonstrated history of working with diverse technologies and population. I am very much a kid at heart, love to cook, listen to jazz and play video games.<br><br>
 </p>
 <p align="center">
-    <a id="Website" href="https://thekrishna.in/"><img width="27px" src="https://thekrishna.in/v1/assets/img/icons/World.png" alt="Krishnakanth Alagiri - Website" /></a>
-    &nbsp;&nbsp;
-    <a id="GitHub" href="https://github.com/K-Kraken/"><img width="27px" src="https://thekrishna.in/v1/assets/img/icons/GitHub.png" alt="Krishnakanth Alagiri - GitHub" /></a>
+    <a id="GitHub" href="https://github.com/K-Kraken/"><img width="27px" src="/img/gh.png" alt="Krishnakanth Alagiri - GitHub" /></a>
     &nbsp;&nbsp;     
-    <a id="LinkedIn" href="https://linkedin.com/in/krishnaalagiri/"><img width="27px" src="https://thekrishna.in/v1/assets/img/icons/LinkedIn.png" alt="Krishnakanth Alagiri - LinkedIn" /></a> 
+    <a id="LinkedIn" href="https://linkedin.com/in/krishnaalagiri/"><img width="27px" src="/img/linkedin.png" alt="Krishnakanth Alagiri - LinkedIn" /></a> 
     &nbsp;&nbsp;
-    <a id="Instagram" href="https://www.instagram.com/kaaaaanth/"><img width="27px" src="https://thekrishna.in/v1/assets/img/icons/Instagram.png" alt="Krishnakanth Alagiri - Instagram" /></a> 
+    <a id="Website" href="https://thekrishna.in/"><img width="27px" src="/img/web.png" alt="Krishnakanth Alagiri - Website" /></a>
     &nbsp;&nbsp;
-    <a id="Mail" href="mailto:krishna.alagiri03@gmail.com"><img width="27px" src="https://thekrishna.in/v1/assets/img/icons/Mail.png" alt="Krishnakanth Alagiri - Mail"/></a>
+    <a id="Instagram" href="https://www.instagram.com/kaaaaanth/"><img width="27px" src="/img/instagram.png" alt="Krishnakanth Alagiri - Instagram" /></a> 
+    &nbsp;&nbsp;
+    <a id="Mail" href="mailto:krishna.alagiri03@gmail.com"><img width="27px" src="/img/mail.png" alt="Krishnakanth Alagiri - Mail"/></a>
 </p>
 <img src="http://cdn.thekrishna.in/img/common/border.png"/>
