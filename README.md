@@ -1,7 +1,5 @@
-<h3 align="center">
-    <a align="center" href="https://thekrishna.in/"><img src="https://thekrishna.in/assets/img/KK.png" width="27px">
-    </a><br>Hi Github 👋</h3>
-<p align="center">I'm Krishnakanth Alagiri. A Student Software Engineer from Chennai, India with a demonstrated history of working with diverse technologies and population. I am very much a kid at heart, love to cook, listen to jazz and play video games.<br>
+<h3 align="center">Hi Github 👋</h3>
+<p align="center">I'm Krishnakanth Alagiri. A Student Software Engineer from Chennai, India with a demonstrated history of working with diverse technologies and population. I am very much a kid at heart, love to cook, listen to jazz and play video games.<br><br><a href="https://thekrishna.in/"><b>Know more about me from here</b></a>
 </p>
 <p align="center">
     <a id="GitHub" href="https://github.com/K-Kraken/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/gh.png" alt="Krishnakanth Alagiri - GitHub" /></a>
