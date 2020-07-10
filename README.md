@@ -1,6 +1,12 @@
 <h3 align="center">Hi Github 👋</h3>
-<p align="center">I'm Krishnakanth Alagiri. A Student Software Engineer from Chennai, India with a demonstrated history of working with diverse technologies and population. I am very much a kid at heart, love to cook, listen to jazz and play video games.<br><br><a href="https://thekrishna.in/"><b>Know more about me from here</b></a>
-</p>
+
+- 🔭 I’m a Student Software Engineer from Sri Venkateswara College of Engineering
+- 👯 I write about technologies that interest me in [My Blog](https://thekrishna.in/blogs).
+- 💬 Let's talk about Language Technologies, Cloud Orchestration, and Pro-Bonos.
+- 📫 How to reach me: [Website](https://thekrishna.in/) or [LinkedIn](https://linkedin.com/in/krishnaalagiri/)
+- ⚡ Fun fact: I know all the memes.
+<!-- footer --!>
+<p align="center"><a href="http://hits.dwyl.com/K-Kraken/K-Kraken"><img src="http://hits.dwyl.com/K-Kraken/K-Kraken.svg" alt="HitCount"></a></p>
 <p align="center">
     <a id="GitHub" href="https://github.com/K-Kraken/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/gh.png" alt="Krishnakanth Alagiri - GitHub" /></a>
     &nbsp;&nbsp;     
