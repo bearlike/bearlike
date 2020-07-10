@@ -14,4 +14,4 @@
     &nbsp;&nbsp;
     <a id="Mail" href="mailto:krishna.alagiri03@gmail.com"><img width="27px" src="https://thekrishna.in/K-Kraken/img/mail.png" alt="Krishnakanth Alagiri - Mail"/></a>
 </p>
-<img src="http://cdn.thekrishna.in/img/common/border.png"/>
+<img src="https://imgur.com/HnBVMw5.png"/>
