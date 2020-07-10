@@ -12,6 +12,6 @@
     &nbsp;&nbsp;
     <a id="Instagram" href="https://www.instagram.com/kaaaaanth/"><img width="27px" src="https://thekrishna.in/K-Kraken/img/instagram.png" alt="Krishnakanth Alagiri - Instagram" /></a> 
     &nbsp;&nbsp;
-    <a id="Mail" href="mailto:krishna.alagiri03@gmail.com"><img width="27px" src="https://thekrishna.in/K-Kraken/img/mail.png" alt="Krishnakanth Alagiri - Mail"/></a>
+    <a id="Mail" href="mailto:krishna.alagiri03@gmail.com"><img width="27px" src="https://thekrishna.in/K-Kraken/img/mail.png?" alt="Krishnakanth Alagiri - Mail"/></a>
 </p>
 <img src="https://imgur.com/HnBVMw5.png"/>
