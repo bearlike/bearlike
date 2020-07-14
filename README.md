@@ -8,7 +8,7 @@
 
 <details>
 <summary>
-  More stuff about me :shipit:
+  <b>More stuff about me&nbsp;&nbsp;:shipit:</b>
 </summary>
 
 
