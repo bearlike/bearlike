@@ -22,9 +22,9 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/gnubash.svg" />&nbsp; 
 
 ### Database Systems Known :bar_chart:
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mysql.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/mongodb.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/influxdb.svg" />&nbsp; 
+<img height="32" width="32" src="/img/icons/mysql.svg" />&nbsp; 
+<img height="32" width="32" src="/img/icons/mongodb.svg" />&nbsp; 
+<img height="32" width="32" src="/img/icons/influxdb.svg" />&nbsp; 
 
 ### Tools and Framework Known :hammer:
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" />&nbsp;
