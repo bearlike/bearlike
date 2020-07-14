@@ -12,35 +12,35 @@
 </summary>
 
 ### Programming Languages Known :scroll:
-<img height="32" width="32" style="fill: #456456" src="https://unpkg.com/simple-icons@v3/icons/python.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/java.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/cplusplus.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/javascript.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/html5.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/css3.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/php.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/gnubash.svg" />&nbsp; 
+<img height="32" width="32" src="/img/icons/python.svg" />&nbsp; 
+<img height="32" width="32" src="/img/icons/java.svg" />&nbsp;
+<img height="32" width="32" src="/img/icons/javascript.svg" />&nbsp; 
+<img height="32" width="32" src="/img/icons/html5.svg" />&nbsp; 
+<img height="32" width="32" src="/img/icons/css3.svg" />&nbsp; 
+<img height="32" width="32" src="/img/icons/php.svg" />&nbsp; 
+<img height="32" width="32" src="/img/icons/cplusplus.svg" />&nbsp;
+<img height="32" width="32" src="/img/icons/gnubash.svg" />&nbsp; 
 
 ### Database Systems Known :bar_chart:
 <img height="32" width="32" src="/img/icons/mysql.svg" />&nbsp; 
 <img height="32" width="32" src="/img/icons/mongodb.svg" />&nbsp; 
 <img height="32" width="32" src="/img/icons/influxdb.svg" />&nbsp; 
 
-### Tools and Framework Known :hammer:
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/pytorch.svg" />&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/tensorflow.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/docker.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/kubernetes.svg" />&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/apachespark.svg" />&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/jenkins.svg" />&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/travisci.svg" />&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/grafana.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/git.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobexd.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/adobephotoshop.svg" />&nbsp; 
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/gimp.svg" />&nbsp; 
+### Tools and Frameworks Known :hammer:
+<img height="32" width="32" src="/img/icons/pytorch.svg" />&nbsp;
+<img height="32" width="32" src="/img/icons/tensorflow.svg" />&nbsp; 
+<img height="32" width="32" src="/img/icons/docker.svg" />&nbsp; 
+<img height="32" width="32" src="/img/icons/kubernetes.svg" />&nbsp;
+<img height="32" width="32" src="/img/icons/apachespark.svg" />&nbsp;
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/flask.svg" />&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/bootstrap.svg" />&nbsp; 
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/jenkins.svg" />&nbsp;
+<img height="32" width="32" src="/img/icons/travisci.svg" />&nbsp;
+<img height="32" width="32" src="/img/icons/grafana.svg" />&nbsp; 
+<img height="32" width="32" src="/img/icons/git.svg" />&nbsp; 
+<img height="32" width="32" src="/img/icons/gimp.svg" />&nbsp; 
+<img height="32" width="32" src="/img/icons/adobexd.svg" />&nbsp; 
+<img height="32" width="32" src="/img/icons/adobephotoshop.svg" />&nbsp; 
+<img height="32" width="32" src="/img/icons/bootstrap.svg" />&nbsp; 
 
 
 
