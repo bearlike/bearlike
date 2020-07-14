@@ -12,35 +12,35 @@
 </summary>
 
 ### Programming Languages Known :scroll:
-<img height="32" width="32" src="/img/icons/python.svg" />&nbsp; 
-<img height="32" width="32" src="/img/icons/java.svg" />&nbsp;
-<img height="32" width="32" src="/img/icons/javascript.svg" />&nbsp; 
-<img height="32" width="32" src="/img/icons/html5.svg" />&nbsp; 
-<img height="32" width="32" src="/img/icons/css3.svg" />&nbsp; 
-<img height="32" width="32" src="/img/icons/php.svg" />&nbsp; 
-<img height="32" width="32" src="/img/icons/cplusplus.svg" />&nbsp;
-<img height="32" width="32" src="/img/icons/gnubash.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/gnubash.svg" />&nbsp; 
 
 ### Database Systems Known :bar_chart:
-<img height="32" width="32" src="/img/icons/mysql.svg" />&nbsp; 
-<img height="32" width="32" src="/img/icons/mongodb.svg" />&nbsp; 
-<img height="32" width="32" src="/img/icons/influxdb.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mongodb.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/influxdb.svg" />&nbsp; 
 
 ### Tools and Frameworks Known :hammer:
-<img height="32" width="32" src="/img/icons/pytorch.svg" />&nbsp;
-<img height="32" width="32" src="/img/icons/tensorflow.svg" />&nbsp; 
-<img height="32" width="32" src="/img/icons/docker.svg" />&nbsp; 
-<img height="32" width="32" src="/img/icons/kubernetes.svg" />&nbsp;
-<img height="32" width="32" src="/img/icons/apachespark.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/pytorch.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/tensorflow.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/docker.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/kubernetes.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/apachespark.svg" />&nbsp;
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/flask.svg" />&nbsp;
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/jenkins.svg" />&nbsp;
-<img height="32" width="32" src="/img/icons/travisci.svg" />&nbsp;
-<img height="32" width="32" src="/img/icons/grafana.svg" />&nbsp; 
-<img height="32" width="32" src="/img/icons/git.svg" />&nbsp; 
-<img height="32" width="32" src="/img/icons/gimp.svg" />&nbsp; 
-<img height="32" width="32" src="/img/icons/adobexd.svg" />&nbsp; 
-<img height="32" width="32" src="/img/icons/adobephotoshop.svg" />&nbsp; 
-<img height="32" width="32" src="/img/icons/bootstrap.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/travisci.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/grafana.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/git.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/gimp.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/adobexd.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/adobephotoshop.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/bootstrap.svg" />&nbsp; 
 
 
 
