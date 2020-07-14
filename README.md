@@ -1,4 +1,4 @@
-<h3 align="center">Hello GitHub 👋</h3>
+<p align="center"><img src="https://imgur.com/wd3bnrm.gif"/></p>
 
 - 🔭 I’m a Student Software Engineer from Sri Venkateswara College of Engineering
 - 👯 I write about technologies that interest me in [My Blog](https://thekrishna.in/blogs).
