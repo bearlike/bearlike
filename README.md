@@ -8,7 +8,7 @@
 
 <details>
 <summary>
-  <b>More stuff about me&nbsp;&nbsp;:shipit:</b>
+  <b><img src="https://img.shields.io/badge/-Click%20Here%20to%20know%20more%20about%20me!-b03544?style=for-the-badge" /></b>
 </summary>
 
 
