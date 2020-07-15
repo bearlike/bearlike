@@ -8,7 +8,7 @@
 
 <details>
 <summary>
-  <b><img src="https://img.shields.io/badge/-Click%20Here%20to%20know%20more%20about%20me!-b03544?style=for-the-badge" /></b>
+  <a href="https://github.com/K-Kraken"><img src="https://img.shields.io/badge/-Expand%20to%20know%20more%20about%20me!-b03544?style=for-the-badge" /></a>
 </summary>
 
 
