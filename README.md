@@ -1,4 +1,5 @@
-## Krishnakanth Alagiri (Him/He) 🌻
+<h2 align="center"> Krishnakanth Alagiri (Him/He) 🌻 </h2>
+
 - 🔭 I’m a Student Software Engineer from Sri Venkateswara College of Engineering
 - 👯 I write about technologies that interest me in [My Blog](https://thekrishna.in/blogs).
 - 💬 Let's talk about Language Technologies, Cloud Orchestration, and Pro-Bonos.
@@ -18,7 +19,7 @@ I'm very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	a
 
 Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**.](https://youtube.com/watch?v=BNMKGYiJpvg)
 
-### Programming Languages :scroll:
+### Programming Languages 📜
 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp;
@@ -27,16 +28,15 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/gnubash.svg" />&nbsp; 
 
-### Database Systems :bar_chart:
+### Database Systems 📊
 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mongodb.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/influxdb.svg" />&nbsp;&nbsp;
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/couchdb.svg" />&nbsp; 
 
-### Tools and Frameworks :hammer:
+### Tools and Frameworks 🔨
 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/pytorch.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/tensorflow.svg" />&nbsp; 
