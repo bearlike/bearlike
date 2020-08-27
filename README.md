@@ -1,10 +1,10 @@
 <h2 align="center"> Krishnakanth Alagiri (Him/He) 🌻 </h2>
 
 - 🔭 I’m a Student Software Engineer from Sri Venkateswara College of Engineering
-- 👯 I write about technologies that interest me in [My Blog](https://thekrishna.in/blogs).
+- 👯 I write about technologies that interest me in **[My Blog](https://thekrishna.in/blogs)**.
 - 💬 Let's talk about Language Technologies, Cloud Orchestration, and Pro-Bonos.
 - :computer: **First Computer**: Dell Dimension XPS T600r
-- 📫 **How to reach me**: [Website](https://thekrishna.in/) or [LinkedIn](https://linkedin.com/in/krishnaalagiri/)
+- 📫 **How to reach me**: **[Website](https://thekrishna.in/)** or **[LinkedIn](https://linkedin.com/in/krishnaalagiri/)**
 - ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
 
 <details>
@@ -15,26 +15,24 @@
 
 ### Little More About Me  
 
-I'm very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone:	and play video games :video_game:. I also love Hackathons (Who doesn't love Pizzas, Red Bull and Swags). I'm currently focusing :dart: of Cloud Architectures, Language Technologies and Deep Learning.
+I'm very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone: and play video games :video_game:. I also love Hackathons (Who doesn't love Pizzas, Red Bull and Swags). I'm currently focusing :dart: of Cloud Architectures, Language Technologies and Deep Learning.
 
 Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**.](https://youtube.com/watch?v=BNMKGYiJpvg)
 
-### Programming Languages 📜
-
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp;
-
-### Database Systems 📊
-
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mongodb.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/influxdb.svg" />&nbsp;&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/couchdb.svg" />&nbsp; 
+<table>
+<thead>
+  <tr>
+    <th><h3>Programming Languages 📜</h3></th>
+    <th><h3>Database Systems 📊</h3></th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td><img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp;<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp;</td>
+    <td><img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mongodb.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/influxdb.svg" />&nbsp;&nbsp;<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/couchdb.svg" />&nbsp;</td>
+  </tr>
+</tbody>
+</table>
 
 ### Tools and Frameworks 🔨
 
