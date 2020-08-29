@@ -1,4 +1,4 @@
-<h2 align="center"> Krishnakanth Alagiri (Him/He) 🌻 </h2>
+<h2 align="center"> &lt;Krishnakanth Alagiri 🌻 /&gt;</h2>
 
 - 🔭 I’m a Student Software Engineer from Sri Venkateswara College of Engineering
 - 👯 I write about technologies that interest me in **[My Blog](https://thekrishna.in/blogs)**.
