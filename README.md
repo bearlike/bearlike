@@ -1,4 +1,4 @@
-<h2 align="center"> &lt;Krishnakanth Alagiri 🌻 /&gt;</h2>
+<h1 align="center"> &lt;Krishnakanth Alagiri 🌻 /&gt;</h1>
 
 - 🔭 I’m a Student Software Engineer from Sri Venkateswara College of Engineering
 - 👯 I write about technologies that interest me in **[My Blog](https://thekrishna.in/blogs)**.
@@ -67,4 +67,4 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
     &nbsp;&nbsp;
    <a id="Mail" href="mailto:krishna.alagiri03@gmail.com"><img width="27px" src="https://thekrishna.in/K-Kraken/img/mail.png?" alt="Krishnakanth Alagiri - Mail"/></a>
 </p>
-<img src="https://imgur.com/rilHVxA.png"/>
+<!--<img src="https://imgur.com/rilHVxA.png"/>--!>
