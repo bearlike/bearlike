@@ -1,10 +1,9 @@
 <h1 align="center"> &lt;Krishnakanth Alagiri 🌻 /&gt;</h1>
 
 - 🔭 I’m a Student Software Engineer from Sri Venkateswara College of Engineering
-- 👯 I write about technologies that interest me in **[My Blog](https://thekrishna.in/blogs)**.
+- 🌱 **My Digital Garden**: I write about things I'm familiar with in **[thekrishna.in/blogs](https://thekrishna.in/blogs)**.
 - :computer: **First Computer**: Dell Dimension XPS T600r
 - 📫 **How to reach me**: **[Website](https://thekrishna.in/)** or **[LinkedIn](https://linkedin.com/in/krishnaalagiri/)**
-- ⚡ **Unbelievable fact**: My first words were "Hello world". (I warned you!)
 
 <details>
 <summary>
