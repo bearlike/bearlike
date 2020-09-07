@@ -20,26 +20,34 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
 <table>
 <thead>
   <tr>
-    <th><h3>Programming 📜</h3></th>
-    <th><h3>Database 📊</h3></th>
-    <th><h3>Tools and Frameworks 🔨</h3></th>
-    <th><h3>Design 🎨</h3></th>
+    <th><h3>Programming&nbsp;📜</h3></th>
+    <th><h3>Database&nbsp;📊</h3></th>
+    <th><h3>Automate&nbsp;🤖</h3></th>
+    <th><h3>Tools&nbsp;and&nbsp;Frameworks&nbsp;🔨</h3></th>
+    <th><h3>Design&nbsp;🎨</h3></th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td><img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp;<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp;</td>
-    <td><img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mongodb.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/influxdb.svg" />&nbsp;&nbsp;<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/couchdb.svg" />&nbsp;</td>
-    <td><img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/pytorch.svg" />&nbsp;
+    <td>
+    <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp;<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp;
+    </td>
+    <td>
+    <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mongodb.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/influxdb.svg" />&nbsp;&nbsp;<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/couchdb.svg" />&nbsp;
+    </td>
+    <td>
+    <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/docker.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/kubernetes.svg" />&nbsp;
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/jenkins.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/travisci.svg" />&nbsp;
+    </td>
+    <td>
+    <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/pytorch.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/tensorflow.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/opencv.svg" />&nbsp; 
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linux.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/docker.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/kubernetes.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/apachespark.svg" />&nbsp;
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/flask.svg" />&nbsp;
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/jenkins.svg" />&nbsp;
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/travisci.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/grafana.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/git.svg" />&nbsp; 
 </td>
