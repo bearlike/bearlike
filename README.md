@@ -20,9 +20,10 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
 <table>
 <thead>
   <tr>
-    <th><h3>Programming Languages 📜</h3></th>
-    <th><h3>Database Systems 📊</h3></th>
+    <th><h3>Programming 📜</h3></th>
+    <th><h3>Database 📊</h3></th>
     <th><h3>Tools and Frameworks 🔨</h3></th>
+    <th><h3>Design 🎨</h3></th>
   </tr>
 </thead>
 <tbody>
@@ -41,11 +42,14 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/travisci.svg" />&nbsp;
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/grafana.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/git.svg" />&nbsp; 
+</td>
+<td>
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/inkscape.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/gimp.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/adobexd.svg" />&nbsp; 
 <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/adobephotoshop.svg" />&nbsp; 
-<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/bootstrap.svg" />&nbsp; </td>
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/bootstrap.svg" />&nbsp; 
+</td>
   </tr>
 </tbody>
 </table>
