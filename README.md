@@ -17,6 +17,9 @@ I'm very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone: a
 
 Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**.](https://youtube.com/watch?v=BNMKGYiJpvg)
 
+
+### Things I know and use 🌱
+
 <table>
     <thead>
         <tr>
