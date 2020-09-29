@@ -3,19 +3,9 @@
 - 🔭 I’m a Student Software Engineer from Sri Venkateswara College of Engineering
 - 🌱 **My Digital Garden**: I write about things I'm familiar with in **[thekrishna.in/blogs](https://thekrishna.in/blogs/index.html)**.
 - :computer: **First Computer**: Dell Dimension XPS T600r
+- :dart: Currently Focusing on **Cloud Architectures, Language Technologies and Deep Learning**.
 - 📫 **How to reach me**: **[Website](https://thekrishna.in/)** or **[LinkedIn](https://linkedin.com/in/krishnaalagiri/)**
-
-<details>
-<summary>
-  <b>Expand to hear a little more about me.</b>
-</summary>
-
-
-### Little More About Me 🧭
-
-I'm very much a kid at heart, love to cook :ramen:, listen to jazz :saxophone: and play video games :video_game:. I also love Hackathons (Who doesn't love Pizzas, Red Bull and Swags). I'm currently focusing :dart: of Cloud Architectures, Language Technologies and Deep Learning.
-
-Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**.](https://youtube.com/watch?v=BNMKGYiJpvg)
+- Here's my favourite song for you :trumpet: - [**Feeling Good** by **Nina Simone**.](https://youtube.com/watch?v=BNMKGYiJpvg)
 
 
 ### Things I know and use 🌱
@@ -79,7 +69,7 @@ Here's my favourite song for you :trumpet:- [**Feeling Good** by **Nina Simone**
     </tbody>
 </table>
 
-<br></details>
+<br>
 <!-- footer --!>
 <p align="center"><a href="http://hits.dwyl.com/K-Kraken/K-Kraken"><img src="http://hits.dwyl.com/K-Kraken/K-Kraken.svg" alt="HitCount"></a></p>
 <p align="center">
