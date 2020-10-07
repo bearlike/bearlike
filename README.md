@@ -33,10 +33,10 @@
         <tr>
             <td>
                 <!-- Programming --!>
-                <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp;<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp;
+                <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp;<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" /> <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />  <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" /> <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />
             </td>
             <td>
-                <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mongodb.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/influxdb.svg" />&nbsp;&nbsp;<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/couchdb.svg" />&nbsp;
+                <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mongodb.svg" />  <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/influxdb.svg" />   &nbsp;<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/couchdb.svg" />&nbsp;
             </td>
             <td>
                 <!-- Automate --!>
