@@ -7,11 +7,9 @@
 - Here's my favourite song for you :trumpet: - [**Feeling Good** by **Nina Simone**.](https://youtube.com/watch?v=BNMKGYiJpvg)
 
 
-### Things I know and use 🌱
-<p align="center"><img alt="Things_I_know_and_use" width="700px" src="https://imgur.com/LF8Axf8.png" /></p>
-
-
-<br>
+<h2 align="center">Things I know and use 🌱</h2>
+<p align="center"><img alt="Things_I_know_and_use" width="550px" src="https://imgur.com/LF8Axf8.png" /></p>
+<h2 align="center"></h2>
 <!-- footer --!>
 <p align="center"><a href="http://hits.dwyl.com/K-Kraken/K-Kraken"><img src="http://hits.dwyl.com/K-Kraken/K-Kraken.svg" alt="HitCount"></a></p>
 <p align="center">
