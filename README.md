@@ -1,4 +1,4 @@
-<h1 align="center"> &lt;Krishnakanth Alagiri <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> /&gt;</h1>
+<h1 align="center"> &lt;Krishnakanth Alagiri <img src="https://i.imgur.com/n3l0uQ0.gif"> /&gt;</h1>
 
 - 🔭 I’m a Student Software Engineer from Sri Venkateswara College of Engineering
 - 🌱 **My Digital Garden**: I write about things I'm familiar with in **[thekrishna.in/blogs](https://thekrishna.in/blogs/index.html)**.
@@ -8,65 +8,8 @@
 
 
 ### Things I know and use 🌱
+<p align="center"><img alt="Things_I_know_and_use" width="700px" src="https://imgur.com/LF8Axf8.png" /></p>
 
-<table>
-    <thead>
-        <tr>
-            <th>
-                <h3>Programming</h3>
-            </th>
-            <th>
-                <h3>Database</h3>
-            </th>
-            <th>
-                <h3>Automate</h3>
-            </th>
-            <th>
-                <h3>Tools&nbsp;and Frameworks</h3>
-            </th>
-            <th>
-                <h3>Design</h3>
-            </th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td>
-                <!-- Programming --!>
-                <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/java.svg" />&nbsp;<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" /> <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />  <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/php.svg" /> <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />
-            </td>
-            <td>
-                <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mongodb.svg" />  <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/influxdb.svg" />   &nbsp;<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/couchdb.svg" />&nbsp;
-            </td>
-            <td>
-                <!-- Automate --!>
-                <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/docker.svg" />&nbsp;
-                <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/kubernetes.svg" />&nbsp;
-                <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/jenkins.svg" />&nbsp;
-                <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/travisci.svg" />&nbsp;
-            </td>
-            <td>
-                <!-- Tools and Framework --!>
-                <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/pytorch.svg" />&nbsp;
-                <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/tensorflow.svg" />&nbsp;
-                <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/opencv.svg" />&nbsp;
-                <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linux.svg" />&nbsp;
-                <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/apachespark.svg" />&nbsp;
-                <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/flask.svg" />&nbsp;
-                <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/grafana.svg" />&nbsp;
-                <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/git.svg" />&nbsp;
-            </td>
-            <td>
-                <!-- Design --!>
-                <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/adobephotoshop.svg" />&nbsp;
-                <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/adobexd.svg" />&nbsp;
-                <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/bootstrap.svg" />&nbsp;
-                <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/inkscape.svg" />&nbsp;
-                <img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/gimp.svg" />&nbsp;
-            </td>
-        </tr>
-    </tbody>
-</table>
 
 <br>
 <!-- footer --!>
