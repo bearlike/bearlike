@@ -1,6 +1,6 @@
 <h1 align="center"> &lt;Krishnakanth Alagiri <img src="https://i.imgur.com/n3l0uQ0.gif"> /&gt;</h1>
 
-- 🔭 I’m a Student Software Engineer from Sri Venkateswara College of Engineering
+- 🔭 I’m a Student Software Engineer from **Sri Venkateswara College of Engineering**
 - 🌱 **My Digital Garden**: I write about things I'm familiar with in **[thekrishna.in/blogs](https://thekrishna.in/blogs/index.html)**.
 - :computer: **First Computer**: Dell Dimension XPS T600r
 - 📫 **How to reach me**: **[Website](https://thekrishna.in/)** or **[LinkedIn](https://linkedin.com/in/krishnaalagiri/)**
