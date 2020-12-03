@@ -13,13 +13,13 @@
 <!-- footer --!>
 <p align="center"><a href="http://hits.dwyl.com/K-Kraken/K-Kraken"><img src="http://hits.dwyl.com/K-Kraken/K-Kraken.svg" alt="HitCount"></a></p>
 <p align="center">
-    <a id="GitHub" href="https://github.com/bearlike/"><img width="27px" src="https://thekrishna.in/bearlike/img/gh.png" alt="Krishnakanth Alagiri - GitHub" /></a>
+    <a id="GitHub" href="https://github.com/bearlike/"><img width="27px" src="https://cdn.thekrishna.in/img/icon/gh-profile/gh.png" alt="Krishnakanth Alagiri - GitHub" /></a>
     &nbsp;&nbsp;     
-    <a id="LinkedIn" href="https://linkedin.com/in/krishnaalagiri/"><img width="27px" src="https://thekrishna.in/bearlike/img/linkedin.png" alt="Krishnakanth Alagiri - LinkedIn" /></a> 
+    <a id="LinkedIn" href="https://linkedin.com/in/krishnaalagiri/"><img width="27px" src="https://cdn.thekrishna.in/img/icon/gh-profile/linkedin.png" alt="Krishnakanth Alagiri - LinkedIn" /></a> 
     &nbsp;&nbsp;
-    <a id="Website" href="https://thekrishna.in/"><img width="27px" src="https://thekrishna.in/bearlike/img/web.png" alt="Krishnakanth Alagiri - Website" /></a>
+    <a id="Website" href="https://thekrishna.in/"><img width="27px" src="https://cdn.thekrishna.in/img/icon/gh-profile/web.png" alt="Krishnakanth Alagiri - Website" /></a>
     &nbsp;&nbsp;
-   <a id="Mail" href="mailto:krishna.alagiri03@gmail.com"><img width="27px" src="https://thekrishna.in/bearlike/img/mail.png?" alt="Krishnakanth Alagiri - Mail"/></a>
+   <a id="Mail" href="mailto:krishna.alagiri03@gmail.com"><img width="27px" src="https://cdn.thekrishna.in/img/icon/gh-profile/mail.png?" alt="Krishnakanth Alagiri - Mail"/></a>
 </p>
 
 <!--<img src="https://imgur.com/rilHVxA.png"/>--!>
