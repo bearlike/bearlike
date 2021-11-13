@@ -1,4 +1,4 @@
-<h1 align="center"> &lt;Krishnakanth Alagiri <img src="https://i.imgur.com/n3l0uQ0.gif"> /&gt;</h1>
+<h1 align="center"><img src="https://cdn.thekrishna.in/img/kk-name-animated.svg?now1" height="50" /></h1>
 
 - 🌱 **My Digital Garden**: I write about things I'm familiar with in **[thekrishna.in/blogs](https://thekrishna.in/blogs/index.html)**.
 - :computer: **First Computer**: Dell Dimension XPS T600r
