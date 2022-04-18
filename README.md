@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://cdn.thekrishna.in/img/kk-name-animated.svg?now1" height="50" /></h1>
+<h1 align="center"><img src="https://cdn.thekrishna.in/img/kk-name-animated.svg" height="50" /></h1>
 
 - 🌱 **My Digital Garden**: I write about things I'm familiar with in **[thekrishna.in/blogs](https://thekrishna.in/blogs/?utm_source=github)**.
 - :computer: **First Computer**: Dell Dimension XPS T600r
@@ -9,4 +9,12 @@
 <p align="center"><a href="https://thekrishna.in/#skills?utm_source=github"><img alt="Things_I_know_and_use" src="https://i.imgur.com/a9a5yz6.png" /></a></p>
 <h2 align="center"></h2>
 
-<p align="center">   <a id="GitHub" href="https://kanth.tech/github?utm_source=github"><img width="40px" src="https://cdn.thekrishna.in/img/icon/gh-profile/github.svg?" alt="Krishnakanth Alagiri - GitHub" /></a>&nbsp;&nbsp;   <a id="LinkedIn" href="https://kanth.tech/linkedin?utm_source=github"><img width="40px" src="https://cdn.thekrishna.in/img/icon/gh-profile/linkedin.svg" alt="Krishnakanth Alagiri - LinkedIn" /></a>&nbsp;&nbsp;   <a id="Website" href="https://thekrishna.in/?utm_source=github"><img width="40px" src="https://cdn.thekrishna.in/img/icon/gh-profile/web.svg" alt="Krishnakanth Alagiri - Website" /></a>&nbsp;&nbsp;   <a id="DEV" href="https://kanth.tech/devto?utm_source=github"><img width="40px" src="https://cdn.thekrishna.in/img/icon/gh-profile/dev.svg" alt="Krishnakanth Alagiri - DEV" /></a>&nbsp;&nbsp;   <a id="Medium" href="https://kanth.tech/medium?utm_source=github"><img width="40px" src="https://cdn.thekrishna.in/img/icon/gh-profile/medium.svg?h" alt="Krishnakanth Alagiri - Medium" /></a>&nbsp;&nbsp;   <a id="Mail" href="mailto:mail@kanth.tech"><img width="40px" src="https://cdn.thekrishna.in/img/icon/gh-profile/mail.svg?" alt="Krishnakanth Alagiri - Mail"/></a></p>
+<p align="center">   
+<a id="GitHub"   href="https://kanth.tech/github?utm_source=github"    ><img width="40px" src="https://cdn.thekrishna.in/img/icon/gh-profile/github.svg"   alt="GitHub"   /></a>&nbsp;
+<a id="LinkedIn" href="https://kanth.tech/linkedin?utm_source=github"  ><img width="40px" src="https://cdn.thekrishna.in/img/icon/gh-profile/linkedin.svg" alt="LinkedIn" /></a>&nbsp;&nbsp;
+<a id="Twitter"  href="https://kanth.tech/twitter?utm_source=github"   ><img width="34px" src="https://cdn.thekrishna.in/img/icon/gh-profile/twitter.svg"  alt="Twitter"  /></a>&nbsp;&nbsp;
+<a id="Website"  href="https://thekrishna.in/?utm_source=github"       ><img width="40px" src="https://cdn.thekrishna.in/img/icon/gh-profile/web.svg"      alt="Website"  /></a>&nbsp;
+<a id="Dev.to"   href="https://kanth.tech/devto?utm_source=github"     ><img width="40px" src="https://cdn.thekrishna.in/img/icon/gh-profile/dev.svg"      alt="Dev.to"   /></a>&nbsp;
+<a id="Medium"   href="https://kanth.tech/medium?utm_source=github"    ><img width="40px" src="https://cdn.thekrishna.in/img/icon/gh-profile/medium.svg"   alt="Medium"   /></a>&nbsp;
+<a id="Mail"     href="mailto:mail@kanth.tech"                         ><img width="40px" src="https://cdn.thekrishna.in/img/icon/gh-profile/mail.svg"     alt="Mail"     /></a>
+</p>
