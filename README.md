@@ -6,7 +6,9 @@
 - Here's my favourite song for you :trumpet: - [**Feeling Good** by **Nina Simone**.](https://youtube.com/watch?v=BNMKGYiJpvg)
 
 <h2 align="center">Things I know and use 🌱</h2>
-<p align="center"><a href="https://thekrishna.in/#skills?utm_source=github"><img alt="Things_I_know_and_use" src="https://cdn.thekrishna.in/img/Projects/gh-skills.jpg?20May22" /></a></p>
+
+[![Things_I_know_and_use](https://cdn.thekrishna.in/img/Projects/gh-skills.jpg?20May22)](https://thekrishna.in/#skills?utm_source=github)
+
 <h2 align="center"></h2>
 
 <p align="center">   
