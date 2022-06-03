@@ -7,12 +7,17 @@
 
 <h2 align="center">Things I know and use 🌱</h2>
 <p align="center"><a href="https://thekrishna.in/#skills?utm_source=github"><img alt="Things_I_know_and_use" src="https://cdn.thekrishna.in/img/Projects/gh-skills.jpg?20May22" /></a></p>
+
+
+<h2 align="center">Personal Linux Setup :nut_and_bolt:</h2>
+<p align="center"><a href="https://github.com/bearlike/my-popos-setup"><img width="45%" src="https://cdn.thekrishna.in/img/gh-card/my_popos_setup.svg?" alt="bearlike/my-popos-setup"></a>&emsp;<a href="https://github.com/bearlike/dotfiles"><img width="45%" src="https://cdn.thekrishna.in/img/gh-card/dotfiles.svg?" alt="bearlike/dotfile"></a></p>
 <h2 align="center"></h2>
+
 
 <p align="center">   
 <a id="GitHub"   href="https://kanth.tech/github?utm_source=github"    ><img width="40px" src="https://cdn.thekrishna.in/img/icon/gh-profile/github.svg"   alt="GitHub"   /></a>&nbsp;
 <a id="LinkedIn" href="https://kanth.tech/linkedin?utm_source=github"  ><img width="40px" src="https://cdn.thekrishna.in/img/icon/gh-profile/linkedin.svg" alt="LinkedIn" /></a>&nbsp;&nbsp;
-<a id="Twitter"  href="https://kanth.tech/twitter?utm_source=github"   ><img width="34px" src="https://cdn.thekrishna.in/img/icon/gh-profile/twitter.svg"  alt="Twitter"  /></a>&nbsp;&nbsp;
+<a id="Twitter"  href="https://kanth.tech/twitter?utm_source=github"   ><img width="32px" src="https://cdn.thekrishna.in/img/icon/gh-profile/twitter.svg"  alt="Twitter"  /></a>&nbsp;&nbsp;
 <a id="Website"  href="https://thekrishna.in/?utm_source=github"       ><img width="40px" src="https://cdn.thekrishna.in/img/icon/gh-profile/web.svg"      alt="Website"  /></a>&nbsp;
 <a id="Dev.to"   href="https://kanth.tech/devto?utm_source=github"     ><img width="40px" src="https://cdn.thekrishna.in/img/icon/gh-profile/dev.svg"      alt="Dev.to"   /></a>&nbsp;
 <a id="Medium"   href="https://kanth.tech/medium?utm_source=github"    ><img width="40px" src="https://cdn.thekrishna.in/img/icon/gh-profile/medium.svg"   alt="Medium"   /></a>&nbsp;
