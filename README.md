@@ -7,7 +7,7 @@
 
 <h2 align="center">Things I know and use 🌱</h2>
 
-[![Things_I_know_and_use](https://cdn.thekrishna.in/img/gh-card/gh-skills.png)](https://thekrishna.in/#skills?utm_source=github)
+[![Things_I_know_and_use](https://cdn.thekrishna.in/img/gh-card/gh-skills.png?)](https://thekrishna.in/#skills?utm_source=github)
 
 
 <h2 align="center">Personal Linux Setup :nut_and_bolt:</h2>
