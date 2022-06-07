@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://cdn.thekrishna.in/img/kk-name-animated.svg" height="50" /></h1>
+<h1 align="center"><img src="https://cdn.thekrishna.in/img/kk-name-animated.svg?v2" height="50" /></h1>
 
 - 🌱 **My Digital Garden**: I write about things I'm familiar with in **[thekrishna.in/blogs](https://thekrishna.in/blogs/?utm_source=github)**.
 - :computer: **First Computer**: Dell Dimension XPS T600r
