@@ -12,7 +12,7 @@
 
 <h2 align="center">Personal Linux Setup :penguin:</h2>
 <p align="center">
-  <a href="https://github.com/bearlike/my-popos-setup"><img width="45%" src="https://cdn.thekrishna.in/img/gh-card/my_popos_setup.svg?110622" alt="bearlike/my-popos-setup"></a>&emsp;<a href="https://github.com/bearlike/dotfiles"><img width="45%" src="https://cdn.thekrishna.in/img/gh-card/dotfiles.svg?110622" alt="bearlike/dotfile"></a>
+  <a href="https://github.com/bearlike/my-popos-setup"><img width="45%" src="https://cdn.thekrishna.in/img/gh-card/my_popos_setup.svg?110622-1" alt="bearlike/my-popos-setup"></a>&emsp;<a href="https://github.com/bearlike/dotfiles"><img width="45%" src="https://cdn.thekrishna.in/img/gh-card/dotfiles.svg?110622-1" alt="bearlike/dotfile"></a>
 </p>
 
 ---
