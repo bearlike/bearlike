@@ -1,5 +1,6 @@
-<h1 align="center"><img src="https://cdn.thekrishna.in/img/kk-name-animated.svg?110622" height="50" /></h1>
+<h1 align="center"><img src="https://cdn.thekrishna.in/img/kk-name-animated.svg" height="50" /></h1>
 
+- :books::microscope: I'm a Graduate Student at `Purdue University` pursuing `Computer and Information Technology`.
 - 🌱 **My Digital Garden**: I write about things I'm familiar with in **[thekrishna.in/blogs](https://thekrishna.in/blogs/?utm_source=github)**.
 - :computer: **First Computer**: Dell Dimension XPS T600r
 - 📫 **How to reach me**: **[Website](https://thekrishna.in/?utm_source=github)** or **[LinkedIn](https://kanth.tech/linkedin?utm_source=github)**
