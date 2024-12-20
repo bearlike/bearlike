@@ -13,12 +13,12 @@
 
 <h2 align="center">Personal Linux Setup :penguin:</h2>
 <p align="center">
-  <a href="https://github.com/bearlike/my-popos-setup"><img width="45%" src="https://cdn.thekrishna.in/img/gh-card/my_popos_setup.svg?110622-1" alt="bearlike/my-popos-setup"></a>&emsp;<a href="https://github.com/bearlike/dotfiles"><img width="45%" src="https://cdn.thekrishna.in/img/gh-card/dotfiles.svg?110622-1" alt="bearlike/dotfile"></a>
+  <a href="https://github.com/bearlike/scripts"><img width="45%" src="assets\img\project-cards\scripts.svg" alt="bearlike/scripts"></a>&emsp;<a href="https://github.com/bearlike/dotfiles"><img width="45%" src="https://cdn.thekrishna.in/img/gh-card/dotfiles.svg?110622-1" alt="bearlike/dotfile"></a>
 </p>
 
 ---
 
-<p align="center">   
+<p align="center">
   <a id="GitHub"   href="https://kanth.tech/github?utm_source=github"    ><img width="36px" src="https://cdn.thekrishna.in/img/icon/gh-profile/github.svg?110622"   alt="GitHub"   /></a>&nbsp;
   <a id="LinkedIn" href="https://kanth.tech/linkedin?utm_source=github"  ><img width="36px" src="https://cdn.thekrishna.in/img/icon/gh-profile/linkedin.svg?110622" alt="LinkedIn" /></a>&nbsp;
   <a id="Twitter"  href="https://kanth.tech/twitter?utm_source=github"   ><img width="36px" src="https://cdn.thekrishna.in/img/icon/gh-profile/twitter.svg?110622"  alt="Twitter"  /></a>&nbsp;
