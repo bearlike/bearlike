@@ -1,10 +1,11 @@
 <h1 align="center"><img src="https://cdn.thekrishna.in/img/kk-name-animated.svg" height="50" /></h1>
 
 - :books: I build and break code for kicks, so your production runs without glitches :microscope:
+- 🎯 LLM Post-Training, Evaluations, Agents, Harnesses, Safety
 - 🌱 **My Digital Garden**: I write about things I'm familiar with in **[thekrishna.in/blogs](https://thekrishna.in/blogs/?utm_source=github)**.
 - :computer: **First Computer**: Dell Dimension XPS T600r
 - 📫 **How to reach me**: **[Website](https://thekrishna.in/?utm_source=github)** or **[LinkedIn](https://kanth.tech/linkedin?utm_source=github)**
-- Here's my favourite song for you :trumpet: - [**Feeling Good** by **Nina Simone**.](https://youtube.com/watch?v=BNMKGYiJpvg)
+- Here's my favourite song for you :trumpet: - [**Dire Straits** - **Sultans Of Swing**.](https://youtu.be/h0ffIJ7ZO4U?si=w6eFeYlIWNXpY1XB&t=11)
 
 <h2 align="center">Things I know and use 🌱</h2>
 
